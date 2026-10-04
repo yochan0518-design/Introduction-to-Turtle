@@ -38,4 +38,7 @@ for i in range(4):
     board.forward(55)
     board.right(90)
 board.end_fill()
-board
+board.right(10)
+
+#KEEP WINDOW OPEN
+turtle.done()
